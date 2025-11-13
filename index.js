@@ -3,4 +3,4 @@ function square(a, b){
 }
 
 
-document.getElementById("resullt").innerHTML = square(5, 5);
+document.getElementById("result").innerHTML = square(5, 5);
